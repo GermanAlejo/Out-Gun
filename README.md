@@ -1,10 +1,7 @@
-# CarSceneGun
-A simple car scene with simple code so i can learn how to make a simple game using Unity.
+# Out-Gun
+Unity learning project, 2d platform game with car scenes done by [kazzpa/CarSceneGun](https://github.com/Kazzpa/CarSceneGun)
 ## Working:
-* Nitros that can be used whenever you want
-* SpeedBoost on the road, activated automatically
-* Speed Handler
-* Restart game without reloading the entire scene.
+This project was forked from [kazzpa/CarSceneGun](https://github.com/Kazzpa/CarSceneGun) and needs to be joined with the 2d platform version
 ## Assets:
 * [Video Screen Glitch by Keijiro](https://github.com/keijiro/KinoGlitch)
 * [Text Mesh Pro](https://assetstore.unity.com/packages/essentials/beta-projects/textmesh-pro-84126)
